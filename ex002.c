@@ -40,5 +40,6 @@ int main(){
 	
 	calcule = 2 * (base + altura);
 	
-	printf("O retangulo seria de : %d", calcule);
+	printf("O perímetro do retângulo é: %d\n", calcule);
+	
 }
